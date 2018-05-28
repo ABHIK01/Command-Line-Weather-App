@@ -1,0 +1,18 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "Weather App",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "Abhik Samanta",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.87.0",
+    "yargs": "^11.0.0"
+  }
+}
